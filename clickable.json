@@ -1,0 +1,9 @@
+{
+  "clickable_minimum_required": "6.12.2",
+  "builder": "pure",
+  "kill": "webapp-container",
+  "ignore": [
+    ".git"
+  ]
+
+}
