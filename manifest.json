@@ -3,7 +3,7 @@
     "description": "Unofficial HLTV.org Webapp \\n HLTV.org is the leading website for news and livescores for the esports-disciplin Counter-Strike: Global Offensive.",
     "architecture": "all",
     "title": "HLTV.org",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "maintainer": "David Thiele <davidthiele98@gmail.com>",
     "framework" : "ubuntu-sdk-20.04",
     "hooks": {
