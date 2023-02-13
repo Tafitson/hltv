@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=HLTV.org
-Exec=webapp-container --webappUrlPatterns=https://*.hltv.org/*, --store-session-cookies --enable-media-hub-audio https://app.hltv.org/app/5967cd22-fc44-4af3-8752-00d881306b27
-Icon=assets/logo.png
-Terminal=false
-Type=Application
-X-Ubuntu-Touch=true
