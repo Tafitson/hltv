@@ -1,5 +1,5 @@
 {
-  "clickable_minimum_required": "6.12.2",
+  "clickable_minimum_required": "7",
   "builder": "pure",
   "kill": "webapp-container",
   "ignore": [

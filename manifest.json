@@ -5,7 +5,7 @@
     "title": "HLTV.org",
     "version": "0.1.0",
     "maintainer": "David Thiele <davidthiele98@gmail.com>",
-    "framework" : "ubuntu-sdk-16.04",
+    "framework" : "ubuntu-sdk-20.04",
     "hooks": {
         "hltv": {
             "apparmor": "hltv.apparmor",
